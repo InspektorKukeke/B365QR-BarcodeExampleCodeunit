@@ -3,8 +3,8 @@ An example code of how to generate QR/Barcode with API request and convert to Ba
 
 Barcode API used @ http://barcodes4.me/
 
-1. The report code should call GenerateBarcode function.
-2. GenerateBarcode will create the URL for the API and return the image in stream, saves it temporary blob and finally, converts to Base64 string.
+1. The report code calls the GenerateBarcode function.
+2. GenerateBarcode will create the URL for the API and return the image in stream, saves to a temporary blob and finally converts to a Base64 string.
 3. BarcodeImageText can be used in report header by Code.SetData/GetData
 
 GenerateBarcode
