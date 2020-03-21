@@ -20,5 +20,5 @@ Report Header
 
 
 
-Check out barcode API crowd @ http://barcodes4.me/, there are many more options to generate a more specific barcode.
+Check out barcode API crowd @ http://barcodes4.me/, their API documentation is great and allows creation of more specific barcodes if required.
 
