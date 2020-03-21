@@ -8,10 +8,16 @@ Barcode API used @ http://barcodes4.me/
 3. BarcodeImageText can be used in report header by Code.SetData/GetData
 
 GenerateBarcode
+
 ![](Barcoder/generatebarcode.png)
 
+
+
 Report Header
+
 ![](Barcoder/reportheader.png)
+
+
 
 
 Check out barcode API crowd @ http://barcodes4.me/, there are many more options to generate a more specific barcode.
