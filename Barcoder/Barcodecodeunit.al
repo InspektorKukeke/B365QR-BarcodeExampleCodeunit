@@ -1,4 +1,4 @@
-codeunit 50100 Barcodecodeunit
+codeunit 50100 Barcodeunit
 {
     trigger OnRun()
     begin
